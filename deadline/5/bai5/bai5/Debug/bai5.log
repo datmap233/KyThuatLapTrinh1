@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\Code\c++\ky thuat lap trinh\deadline\5\bai5\bai5\Header.h(8,2): warning C4091: 'typedef ': ignored on left of 'linkList' when no variable is declared
+  createList.cpp
+D:\Code\c++\ky thuat lap trinh\deadline\5\bai5\bai5\Header.h(8,2): warning C4091: 'typedef ': ignored on left of 'linkList' when no variable is declared
+  input_output.cpp
+D:\Code\c++\ky thuat lap trinh\deadline\5\bai5\bai5\Header.h(8,2): warning C4091: 'typedef ': ignored on left of 'linkList' when no variable is declared
+  main.cpp
+D:\Code\c++\ky thuat lap trinh\deadline\5\bai5\bai5\Header.h(8,2): warning C4091: 'typedef ': ignored on left of 'linkList' when no variable is declared
+  Generating Code...
+input_output.obj : error LNK2005: "struct linkList * head" (?head@@3PAUlinkList@@A) already defined in createList.obj
+main.obj : error LNK2005: "struct linkList * head" (?head@@3PAUlinkList@@A) already defined in createList.obj
+Source.obj : error LNK2005: "struct linkList * head" (?head@@3PAUlinkList@@A) already defined in createList.obj
+D:\Code\c++\ky thuat lap trinh\deadline\5\bai5\Debug\bai5.exe : fatal error LNK1169: one or more multiply defined symbols found
