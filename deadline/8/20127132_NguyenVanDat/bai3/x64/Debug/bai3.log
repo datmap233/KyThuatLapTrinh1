@@ -1,0 +1,10 @@
+﻿  add.cpp
+  append.cpp
+  create.cpp
+  delete.cpp
+  main.cpp
+  reverse .cpp
+  search.cpp
+  Generating Code...
+D:\Code\c++\ky thuat lap trinh\8\20127132_NguyenVanDat\bai3\delete.cpp(42): warning C4715: 'del_pos': not all control paths return a value
+  bai3.vcxproj -> D:\Code\c++\ky thuat lap trinh\8\20127132_NguyenVanDat\x64\Debug\bai3.exe
